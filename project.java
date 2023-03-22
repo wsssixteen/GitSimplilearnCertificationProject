@@ -22,5 +22,7 @@ class Project {
         System.out.println(sdf.format(completionDate));
         System.out.println("Certification code: " + certificationCode);
         System.out.println("Signed by the CEO of Simplilearn: " + simplilearnCEO.toString());
+
+        System.out.println("We did it!");
     }
 }
